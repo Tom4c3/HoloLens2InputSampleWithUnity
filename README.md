@@ -1,5 +1,5 @@
 # HoloLens2InputSampleWithUnity
-Unityから利用できるHoloLens 2の入力情報取得サンプル
+Unityから利用できるHoloLens2の入力情報取得サンプル
 
 ## Unity2018
 - Unity 2018.4.14f1
